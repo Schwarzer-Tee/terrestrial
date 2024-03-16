@@ -1,0 +1,38 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1710612281
+export_presets.cfg::TextFile::-1::1710453710::0::1::::<><>::
+icon.svg::CompressedTexture2D::6520251359712504300::1710345121::1710345125::1::::<><>::
+main.tscn::PackedScene::5483628997795981014::1710610875::0::1::::<><>::res://Scripts/Player/RigidBody2D.gd<>uid://bouupwb0upg7e::::res://Martial Hero/Sprites/Idle.png<>uid://bve6dbfak68ji::::res://Martial Hero/Sprites/Attack1.png<>uid://c5f14n712nf72::::res://Martial Hero/Sprites/Jump.png<>uid://bf5yro1hgsh4j::::res://Martial Hero/Sprites/Fall.png<>uid://kvqmyh6vs3i2::::res://Martial Hero/Sprites/Run.png<>res://Scripts/Animation/Animation.gd<>res://Scripts/UI/Player_1_hit.gd<>res://Scripts/UI/Player_2_hit.gd<>res://Scripts/UI/Loser.gd<>res://Scripts/UI/Reset.gd<>res://Scripts/UI/Fps.gd
+::res://Martial Hero/::1590937064
+License.txt::TextFile::-1::1590937098::0::1::::<><>::
+::res://Martial Hero/Sprites/::1710440476
+Attack1.png::CompressedTexture2D::3870531555527487766::1590936742::1710440476::1::::<><>::
+Attack2.png::CompressedTexture2D::1696703559684727194::1590936756::1710440476::1::::<><>::
+Death.png::CompressedTexture2D::6117413304894167899::1590936780::1710440476::1::::<><>::
+Fall.png::CompressedTexture2D::2800784576646433999::1590936728::1710440476::1::::<><>::
+Idle.png::CompressedTexture2D::3411594334692370164::1590936678::1710440476::1::::<><>::
+Jump.png::CompressedTexture2D::6890459728587855687::1590936708::1710440476::1::::<><>::
+Run.png::CompressedTexture2D::746234543438037019::1590936696::1710440476::1::::<><>::
+Take Hit - white silhouette.png::CompressedTexture2D::6827126775325544649::1590936770::1710440476::1::::<><>::
+Take Hit.png::CompressedTexture2D::8591239755439543220::1591001976::1710440476::1::::<><>::
+::res://Scripts/::1710498590
+::res://Scripts/Animation/::1710498579
+AnimatedSprite2DPlayer2.gd::GDScript::-1::1710453643::0::1::::<>AnimatedSprite2D<>::
+Animation.gd::GDScript::-1::1710448933::0::1::::<>AnimatedSprite2D<>::
+::res://Scripts/Player/::1710610269
+Player2.gd::GDScript::-1::1710497146::0::1::::<>RigidBody2D<>::
+RigidBody2D.gd::GDScript::-1::1710610269::0::1::::<>RigidBody2D<>::
+::res://Scripts/UI/::1710498634
+Fps.gd::GDScript::-1::1710496594::0::1::::<>Label<>::
+Loser.gd::GDScript::-1::1710498634::0::1::::<>Label<>::
+Player_1_hit.gd::GDScript::-1::1710498559::0::1::::<>Label<>::
+Player_2_hit.gd::GDScript::-1::1710451741::0::1::::<>Label<>::
+Reset.gd::GDScript::-1::1710453025::0::1::::<>Button<>::
+::res://Web Export 1/::1710347010
+index.apple-touch-icon.png::CompressedTexture2D::1126949882210790515::1710345844::1710345844::1::::<><>::
+index.icon.png::CompressedTexture2D::8409522992730751480::1710345844::1710345844::1::::<><>::
+index.png::CompressedTexture2D::7111572685523841054::1710345844::1710345844::1::::<><>::
+::res://Web Export 2/::1710453729
+index.apple-touch-icon.png::CompressedTexture2D::3402766633590004798::1710453709::1710453709::1::::<><>::
+index.icon.png::CompressedTexture2D::2629023426803866258::1710453709::1710453709::1::::<><>::
+index.png::CompressedTexture2D::4346332005019674124::1710453709::1710453709::1::::<><>::

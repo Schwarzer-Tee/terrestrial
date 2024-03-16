@@ -1,0 +1,6 @@
+res://main.tscn
+res://main.gd
+res://player.tscn
+res://Scripts/UI/Player_2_hit.gd
+res://Scripts/UI/Player_1_hit.gd
+res://Scripts/Player/RigidBody2D.gd
